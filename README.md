@@ -14,3 +14,9 @@ Downside to the alternative Membership badge mentioned above:
  * Staged badge means that OSM stock assumes that each stage is a different badge. (See [#1])
 
 [#1]: https://github.com/nimpo/OSMBadgeStages/issues/1
+
+This is a Tampermonkey script, what is it?
+
+(This is a tamper monkey script, what is it!)
+
+Drop this script into yout tampermonkey plugin from 40,000 ft and it should place the stage/level of a badge below a badge in the Badges by Person page in Online Scout Manager.
